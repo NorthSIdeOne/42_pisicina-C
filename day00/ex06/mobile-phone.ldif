@@ -1,0 +1,4 @@
+dn:uid=andstefa,ou=2018_bucharest,ou=2018,ou=bucharest,ou=people,dc=42,dc=fr
+changetype: modify
+add: mobile-phone
+mobile-phone: 0758099093
